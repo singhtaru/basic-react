@@ -109,5 +109,3 @@ Contributions are welcome! If you have suggestions or improvements:
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to replace placeholder URLs, repository details, and file paths with the actual ones from your project. Let me know if you'd like to refine this further! 😊
