@@ -88,21 +88,6 @@ nike-landing-page/
 
 ---
 
-## **Contributing**
-Contributions are welcome! If you have suggestions or improvements:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Make your changes and commit:
-   ```bash
-   git commit -m "Add feature-name"
-   ```
-4. Push to your fork and create a pull request.
-
----
-
 ## **License**
 This project is licensed under the [MIT License](LICENSE).
 
