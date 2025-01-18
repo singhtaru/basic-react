@@ -84,7 +84,7 @@ nike-landing-page/
 ---
 
 ## **Screenshots**
-![Nike Landing Page Screenshot](images/final page.png)
+![Nike Landing Page Screenshot](images/final%20page.png)
 
 ---
 
