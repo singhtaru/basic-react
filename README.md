@@ -1,5 +1,3 @@
-Here’s a sample README file for your React project based on the image:
-
 ---
 
 # Nike Shoes Landing Page
