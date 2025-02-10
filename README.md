@@ -1,6 +1,6 @@
 ---
 
-# Nike Shoes Landing Page
+#  Shoe Brand Landing Page
 
 A modern and responsive landing page designed for showcasing Nike shoes, built with **React** and styled with CSS. This project demonstrates a professional UI/UX design with interactive elements.
 
